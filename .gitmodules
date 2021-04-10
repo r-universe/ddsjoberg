@@ -19,7 +19,7 @@
 	path = hotfun
 	url = https://github.com/ddsjoberg/hotfun
 	shallow = true
-	branch = *release
+	branch = v0.1.12
 	registered = true
 [submodule "dcurves"]
 	path = dcurves
@@ -30,7 +30,7 @@
 	path = broom.helpers
 	url = https://github.com/larmarange/broom.helpers
 	shallow = true
-	branch = *release
+	branch = v1.3.0
 	registered = true
 [submodule "rstudio.prefs"]
 	path = rstudio.prefs
