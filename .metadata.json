@@ -1,5 +1,9 @@
 [
   {
+    "package": "gtsummary",
+    "oncran": true
+  },
+  {
     "package": "bstfun"
   },
   {

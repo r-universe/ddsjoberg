@@ -3,6 +3,11 @@
 	url = https://github.com/ddsjoberg/universe
 	shallow = true
 	branch = HEAD
+[submodule "gtsummary"]
+	path = gtsummary
+	url = https://github.com/ddsjoberg/gtsummary
+	shallow = true
+	registered = true
 [submodule "bstfun"]
 	path = bstfun
 	url = https://github.com/ddsjoberg/bstfun
