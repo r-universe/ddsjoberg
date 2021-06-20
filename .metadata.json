@@ -1,6 +1,21 @@
 [
   {
-    "package": "gtsummary",
+    "package": "bstfun"
+  },
+  {
+    "package": "hotfun"
+  },
+  {
+    "package": "dcurves"
+  },
+  {
+    "package": "broom.helpers",
     "oncran": true
+  },
+  {
+    "package": "rstudio.prefs"
+  },
+  {
+    "package": "sjofun"
   }
 ]

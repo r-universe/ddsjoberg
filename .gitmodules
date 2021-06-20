@@ -1,10 +1,35 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/ddsjoberg/universe
 	shallow = true
 	branch = HEAD
-[submodule "gtsummary"]
-	path = gtsummary
-	url = https://github.com/ddsjoberg/gtsummary
+[submodule "bstfun"]
+	path = bstfun
+	url = https://github.com/ddsjoberg/bstfun
+	shallow = true
+	registered = true
+[submodule "hotfun"]
+	path = hotfun
+	url = https://github.com/ddsjoberg/hotfun
+	shallow = true
+	registered = true
+[submodule "dcurves"]
+	path = dcurves
+	url = https://github.com/ddsjoberg/dcurves
+	shallow = true
+	registered = true
+[submodule "broom.helpers"]
+	path = broom.helpers
+	url = https://github.com/larmarange/broom.helpers
+	shallow = true
+	registered = true
+[submodule "rstudio.prefs"]
+	path = rstudio.prefs
+	url = https://github.com/ddsjoberg/rstudio.prefs
+	shallow = true
+	registered = true
+[submodule "sjofun"]
+	path = sjofun
+	url = https://github.com/ddsjoberg/sjofun
 	shallow = true
 	registered = true
