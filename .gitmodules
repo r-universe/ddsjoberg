@@ -7,16 +7,19 @@
 	path = gtsummary
 	url = https://github.com/ddsjoberg/gtsummary
 	shallow = true
+	branch = *release
 	registered = true
 [submodule "bstfun"]
 	path = bstfun
 	url = https://github.com/ddsjoberg/bstfun
 	shallow = true
+	branch = *release
 	registered = true
 [submodule "hotfun"]
 	path = hotfun
 	url = https://github.com/ddsjoberg/hotfun
 	shallow = true
+	branch = *release
 	registered = true
 [submodule "dcurves"]
 	path = dcurves
@@ -27,6 +30,7 @@
 	path = broom.helpers
 	url = https://github.com/larmarange/broom.helpers
 	shallow = true
+	branch = *release
 	registered = true
 [submodule "rstudio.prefs"]
 	path = rstudio.prefs
