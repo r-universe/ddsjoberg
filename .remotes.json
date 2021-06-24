@@ -1,5 +1,11 @@
 [
   {
+    "package": "rstudio.prefs",
+    "url": "https://github.com/ddsjoberg/rstudio.prefs",
+    "via": ["starter"],
+    "from": "starter"
+  },
+  {
     "package": "starter",
     "url": "https://github.com/ddsjoberg/starter",
     "via": ["rstudio.prefs"],
