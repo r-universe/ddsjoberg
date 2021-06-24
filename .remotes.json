@@ -1,0 +1,8 @@
+[
+  {
+    "package": "starter",
+    "url": "https://github.com/ddsjoberg/starter",
+    "via": ["rstudio.prefs"],
+    "from": "rstudio.prefs"
+  }
+]
