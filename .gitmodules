@@ -36,13 +36,11 @@
 	path = rstudio.prefs
 	url = https://github.com/ddsjoberg/rstudio.prefs
 	shallow = true
-	branch = v0.1.0
 	registered = true
 [submodule "starter"]
 	path = starter
 	url = https://github.com/ddsjoberg/starter
 	shallow = true
-	branch = v0.1.0
 	registered = true
 [submodule "sjofun"]
 	path = sjofun
