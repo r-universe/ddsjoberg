@@ -36,7 +36,7 @@
 	path = rstudio.prefs
 	url = https://github.com/ddsjoberg/rstudio.prefs
 	shallow = true
-	branch = v0.1.0
+	branch = v0.1.1
 	registered = true
 [submodule "starter"]
 	path = starter
