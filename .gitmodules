@@ -19,7 +19,7 @@
 	path = hotfun
 	url = https://github.com/ddsjoberg/hotfun
 	shallow = true
-	branch = v0.2.3
+	branch = v0.2.4
 	registered = true
 [submodule "dcurves"]
 	path = dcurves
