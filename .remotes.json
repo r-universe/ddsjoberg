@@ -8,12 +8,6 @@
   {
     "package": "rstudio.prefs",
     "url": "https://github.com/ddsjoberg/rstudio.prefs",
-    "via": ["hotfun"],
-    "from": "hotfun"
-  },
-  {
-    "package": "rstudio.prefs",
-    "url": "https://github.com/ddsjoberg/rstudio.prefs",
     "via": ["hotfun", "starter"],
     "from": "hotfun"
   },
@@ -28,12 +22,6 @@
     "url": "https://github.com/ddsjoberg/starter",
     "via": ["bstfun"],
     "from": "bstfun"
-  },
-  {
-    "package": "starter",
-    "url": "https://github.com/ddsjoberg/starter",
-    "via": ["hotfun", "rstudio.prefs"],
-    "from": "hotfun"
   },
   {
     "package": "starter",
