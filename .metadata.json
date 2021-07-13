@@ -21,7 +21,8 @@
     "oncran": true
   },
   {
-    "package": "starter"
+    "package": "starter",
+    "oncran": false
   },
   {
     "package": "sjofun"
