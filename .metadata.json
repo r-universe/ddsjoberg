@@ -22,7 +22,7 @@
   },
   {
     "package": "starter",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "sjofun"
