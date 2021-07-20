@@ -10,7 +10,8 @@
     "package": "hotfun"
   },
   {
-    "package": "dcurves"
+    "package": "dcurves",
+    "oncran": false
   },
   {
     "package": "broom.helpers",
