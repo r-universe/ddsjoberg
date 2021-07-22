@@ -10,11 +10,5 @@
     "url": "https://github.com/ddsjoberg/starter",
     "via": ["hotfun"],
     "from": "hotfun"
-  },
-  {
-    "package": "starter",
-    "url": "https://github.com/ddsjoberg/starter",
-    "via": ["rstudio.prefs"],
-    "from": "rstudio.prefs"
   }
 ]
