@@ -25,6 +25,7 @@
 	path = dcurves
 	url = https://github.com/ddsjoberg/dcurves
 	shallow = true
+	branch = *release
 	registered = true
 [submodule "broom.helpers"]
 	path = broom.helpers
@@ -47,5 +48,10 @@
 [submodule "sjofun"]
 	path = sjofun
 	url = https://github.com/ddsjoberg/sjofun
+	shallow = true
+	registered = true
+[submodule "dca.tutorial"]
+	path = dca.tutorial
+	url = https://github.com/ddsjoberg/dca.tutorial
 	shallow = true
 	registered = true

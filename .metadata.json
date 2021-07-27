@@ -27,5 +27,8 @@
   },
   {
     "package": "sjofun"
+  },
+  {
+    "package": "dca.tutorial"
   }
 ]
