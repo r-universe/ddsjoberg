@@ -50,8 +50,3 @@
 	url = https://github.com/ddsjoberg/sjofun
 	shallow = true
 	registered = true
-[submodule "dca.tutorial"]
-	path = dca.tutorial
-	url = https://github.com/ddsjoberg/dca.tutorial
-	shallow = true
-	registered = true
