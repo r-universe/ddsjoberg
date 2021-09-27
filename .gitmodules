@@ -43,7 +43,7 @@
 	path = starter
 	url = https://github.com/ddsjoberg/starter
 	shallow = true
-	branch = v0.1.5
+	branch = v0.1.6
 	registered = true
 [submodule "sjofun"]
 	path = sjofun
