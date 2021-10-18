@@ -13,7 +13,7 @@
 	path = bstfun
 	url = https://github.com/ddsjoberg/bstfun
 	shallow = true
-	branch = v0.2.6
+	branch = v0.2.7
 	registered = true
 [submodule "hotfun"]
 	path = hotfun
@@ -50,3 +50,8 @@
 	url = https://github.com/ddsjoberg/sjofun
 	shallow = true
 	registered = true
+[submodule "gtExtras"]
+	path = gtExtras
+	url = https://github.com/jthomasmock/gtExtras
+	shallow = true
+	registered = false
