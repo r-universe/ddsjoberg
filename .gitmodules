@@ -45,6 +45,11 @@
 	shallow = true
 	branch = v0.1.6
 	registered = true
+[submodule "tidycmprsk"]
+	path = tidycmprsk
+	url = https://github.com/MSKCC-Epi-Bio/tidycmprsk
+	shallow = true
+	registered = true
 [submodule "sjofun"]
 	path = sjofun
 	url = https://github.com/ddsjoberg/sjofun
