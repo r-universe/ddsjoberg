@@ -26,7 +26,8 @@
     "oncran": true
   },
   {
-    "package": "tidycmprsk"
+    "package": "tidycmprsk",
+    "oncran": false
   },
   {
     "package": "sjofun"
