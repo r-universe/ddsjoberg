@@ -27,7 +27,7 @@
   },
   {
     "package": "tidycmprsk",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "sjofun"
