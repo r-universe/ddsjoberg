@@ -55,6 +55,7 @@
 	path = tidycmprsk
 	url = https://github.com/MSKCC-Epi-Bio/tidycmprsk
 	shallow = true
+	branch = *release
 	registered = true
 [submodule "sjofun"]
 	path = sjofun
