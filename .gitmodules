@@ -27,6 +27,12 @@
 	shallow = true
 	branch = *release
 	registered = true
+[submodule "ghe.utils"]
+	path = ghe.utils
+	url = https://github.com/ddsjoberg/ghe.utils
+	shallow = true
+	branch = *release
+	registered = true
 [submodule "broom.helpers"]
 	path = broom.helpers
 	url = https://github.com/larmarange/broom.helpers

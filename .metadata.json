@@ -14,6 +14,9 @@
     "oncran": true
   },
   {
+    "package": "ghe.utils"
+  },
+  {
     "package": "broom.helpers",
     "oncran": true
   },
