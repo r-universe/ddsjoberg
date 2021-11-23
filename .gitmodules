@@ -31,7 +31,7 @@
 	path = ghe.utils
 	url = https://github.com/ddsjoberg/ghe.utils
 	shallow = true
-	branch = v0.1.1
+	branch = v0.1.2
 	registered = true
 [submodule "broom.helpers"]
 	path = broom.helpers
