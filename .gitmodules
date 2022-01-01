@@ -57,6 +57,12 @@
 	shallow = true
 	branch = v0.1.0
 	registered = true
+[submodule "gt.doc.images"]
+	path = gt.doc.images
+	url = https://github.com/ddsjoberg/gt.doc.images
+	shallow = true
+	branch = *release
+	registered = true
 [submodule "sjofun"]
 	path = sjofun
 	url = https://github.com/ddsjoberg/sjofun

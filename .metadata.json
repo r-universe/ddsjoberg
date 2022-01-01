@@ -33,6 +33,9 @@
     "oncran": true
   },
   {
+    "package": "gt.doc.images"
+  },
+  {
     "package": "sjofun"
   }
 ]
