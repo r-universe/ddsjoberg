@@ -61,7 +61,7 @@
 	path = gt.doc.images
 	url = https://github.com/ddsjoberg/gt.doc.images
 	shallow = true
-	branch = v0.1.1
+	branch = v0.2.0
 	registered = true
 [submodule "sjofun"]
 	path = sjofun
