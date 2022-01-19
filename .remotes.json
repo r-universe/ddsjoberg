@@ -12,6 +12,12 @@
     "from": "bstfun"
   },
   {
+    "package": "gtsummary",
+    "url": "https://github.com/ddsjoberg/gtsummary",
+    "via": ["bstfun"],
+    "from": "bstfun"
+  },
+  {
     "package": "webshot2",
     "url": "https://github.com/rstudio/webshot2",
     "via": ["gt.doc.images"],
