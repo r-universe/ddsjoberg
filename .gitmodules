@@ -7,7 +7,7 @@
 	path = gtsummary
 	url = https://github.com/ddsjoberg/gtsummary
 	shallow = true
-	branch = v1.5.0
+	branch = v1.5.1
 	registered = true
 [submodule "bstfun"]
 	path = bstfun
