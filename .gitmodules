@@ -55,7 +55,7 @@
 	path = tidycmprsk
 	url = https://github.com/MSKCC-Epi-Bio/tidycmprsk
 	shallow = true
-	branch = v0.1.0
+	branch = v0.1.2
 	registered = true
 [submodule "gt.doc.images"]
 	path = gt.doc.images
