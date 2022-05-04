@@ -13,7 +13,7 @@
 	path = bstfun
 	url = https://github.com/ddsjoberg/bstfun
 	shallow = true
-	branch = v0.4.1
+	branch = v0.4.2
 	registered = true
 [submodule "hotfun"]
 	path = hotfun
