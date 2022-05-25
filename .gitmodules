@@ -25,7 +25,7 @@
 	path = dcurves
 	url = https://github.com/ddsjoberg/dcurves
 	shallow = true
-	branch = *release
+	branch = v0.3.0
 	registered = true
 [submodule "ghe.utils"]
 	path = ghe.utils
