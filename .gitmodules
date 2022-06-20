@@ -68,6 +68,12 @@
 	url = https://github.com/ddsjoberg/sjofun
 	shallow = true
 	registered = true
+[submodule "updater"]
+	path = updater
+	url = https://github.com/ddsjoberg/updater
+	shallow = true
+	branch = *release
+	registered = true
 [submodule "chromote"]
 	path = chromote
 	url = https://github.com/rstudio/chromote
