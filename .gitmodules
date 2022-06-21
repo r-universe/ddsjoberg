@@ -7,13 +7,13 @@
 	path = gtsummary
 	url = https://github.com/ddsjoberg/gtsummary
 	shallow = true
-	branch = v1.6.0
+	branch = v1.6.1
 	registered = true
 [submodule "bstfun"]
 	path = bstfun
 	url = https://github.com/ddsjoberg/bstfun
 	shallow = true
-	branch = v0.4.4
+	branch = v0.4.7
 	registered = true
 [submodule "hotfun"]
 	path = hotfun
@@ -37,19 +37,19 @@
 	path = broom.helpers
 	url = https://github.com/larmarange/broom.helpers
 	shallow = true
-	branch = v1.7.0
+	branch = v1.8.0
 	registered = true
 [submodule "rstudio.prefs"]
 	path = rstudio.prefs
 	url = https://github.com/ddsjoberg/rstudio.prefs
 	shallow = true
-	branch = v0.1.8
+	branch = v0.1.9
 	registered = true
 [submodule "starter"]
 	path = starter
 	url = https://github.com/ddsjoberg/starter
 	shallow = true
-	branch = v0.1.9
+	branch = v0.1.10
 	registered = true
 [submodule "tidycmprsk"]
 	path = tidycmprsk
@@ -61,7 +61,7 @@
 	path = gt.doc.images
 	url = https://github.com/ddsjoberg/gt.doc.images
 	shallow = true
-	branch = v0.2.0
+	branch = v0.2.1
 	registered = true
 [submodule "sjofun"]
 	path = sjofun
