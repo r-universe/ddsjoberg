@@ -78,7 +78,7 @@
 	path = visR
 	url = https://github.com/openpharma/visR
 	shallow = true
-	branch = *release
+	branch = v0.3.0
 	registered = true
 [submodule "chromote"]
 	path = chromote
