@@ -85,11 +85,6 @@
 	url = https://github.com/rstudio/chromote
 	shallow = true
 	registered = false
-[submodule "gtExtras"]
-	path = gtExtras
-	url = https://github.com/jthomasmock/gtExtras
-	shallow = true
-	registered = false
 [submodule "webshot2"]
 	path = webshot2
 	url = https://github.com/rstudio/webshot2

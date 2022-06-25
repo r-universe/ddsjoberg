@@ -6,12 +6,6 @@
     "from": "gt.doc.images"
   },
   {
-    "package": "gtExtras",
-    "url": "https://github.com/jthomasmock/gtExtras",
-    "via": ["bstfun"],
-    "from": "bstfun"
-  },
-  {
     "package": "webshot2",
     "url": "https://github.com/rstudio/webshot2",
     "via": ["gt.doc.images"],
