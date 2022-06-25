@@ -74,6 +74,12 @@
 	shallow = true
 	branch = v0.1.0
 	registered = true
+[submodule "visR"]
+	path = visR
+	url = https://github.com/openpharma/visR
+	shallow = true
+	branch = *release
+	registered = true
 [submodule "chromote"]
 	path = chromote
 	url = https://github.com/rstudio/chromote

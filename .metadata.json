@@ -41,5 +41,9 @@
   {
     "package": "updater",
     "oncran": false
+  },
+  {
+    "package": "visR",
+    "oncran": false
   }
 ]
