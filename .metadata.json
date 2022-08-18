@@ -1,49 +1,61 @@
 [
   {
     "package": "gtsummary",
-    "oncran": true
+    "oncran": true,
+    "releasetag": true
   },
   {
-    "package": "bstfun"
+    "package": "bstfun",
+    "releasetag": true
   },
   {
-    "package": "hotfun"
+    "package": "hotfun",
+    "releasetag": true
   },
   {
     "package": "dcurves",
-    "oncran": true
+    "oncran": true,
+    "releasetag": true
   },
   {
-    "package": "ghe.utils"
+    "package": "ghe.utils",
+    "releasetag": true
   },
   {
     "package": "broom.helpers",
-    "oncran": true
+    "oncran": true,
+    "releasetag": true
   },
   {
     "package": "rstudio.prefs",
-    "oncran": true
+    "oncran": true,
+    "releasetag": true
   },
   {
     "package": "starter",
-    "oncran": true
+    "oncran": true,
+    "releasetag": true
   },
   {
     "package": "tidycmprsk",
-    "oncran": true
+    "oncran": true,
+    "releasetag": true
   },
   {
-    "package": "gt.doc.images"
+    "package": "gt.doc.images",
+    "releasetag": true
   },
   {
     "package": "sjofun"
   },
   {
     "package": "updater",
-    "oncran": false
+    "oncran": false,
+    "releasetag": true
   },
   {
     "package": "visR",
-    "oncran": true
+    "oncran": true,
+    "releasetag": true
   }
 ]
