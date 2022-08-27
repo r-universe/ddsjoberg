@@ -78,7 +78,7 @@
 	path = ggsurvfit
 	url = https://github.com/ddsjoberg/ggsurvfit
 	shallow = true
-	branch = *release
+	branch = v0.1.0
 	registered = true
 [submodule "visR"]
 	path = visR
