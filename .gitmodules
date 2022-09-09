@@ -74,6 +74,12 @@
 	shallow = true
 	branch = v0.1.0
 	registered = true
+[submodule "ggsurvfit"]
+	path = ggsurvfit
+	url = https://github.com/ddsjoberg/ggsurvfit
+	shallow = true
+	branch = *release
+	registered = true
 [submodule "visR"]
 	path = visR
 	url = https://github.com/openpharma/visR

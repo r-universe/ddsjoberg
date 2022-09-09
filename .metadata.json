@@ -54,6 +54,11 @@
     "releasetag": true
   },
   {
+    "package": "ggsurvfit",
+    "oncran": true,
+    "releasetag": true
+  },
+  {
     "package": "visR",
     "oncran": true,
     "releasetag": true
