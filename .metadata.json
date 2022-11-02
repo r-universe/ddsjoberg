@@ -59,6 +59,9 @@
     "releasetag": true
   },
   {
+    "package": "crc"
+  },
+  {
     "package": "visR",
     "oncran": true,
     "releasetag": true

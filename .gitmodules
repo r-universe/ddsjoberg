@@ -80,6 +80,11 @@
 	shallow = true
 	branch = v0.2.0
 	registered = true
+[submodule "crc"]
+	path = crc
+	url = https://github.com/ddsjoberg/crc
+	shallow = true
+	registered = true
 [submodule "visR"]
 	path = visR
 	url = https://github.com/openpharma/visR
