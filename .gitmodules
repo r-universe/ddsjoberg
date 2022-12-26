@@ -37,7 +37,7 @@
 	path = broom.helpers
 	url = https://github.com/larmarange/broom.helpers
 	shallow = true
-	branch = v1.10.0
+	branch = v1.11.0
 	registered = true
 [submodule "rstudio.prefs"]
 	path = rstudio.prefs
