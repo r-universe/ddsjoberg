@@ -78,7 +78,7 @@
 	path = ggsurvfit
 	url = https://github.com/ddsjoberg/ggsurvfit
 	shallow = true
-	branch = v0.2.1
+	branch = v0.3.0
 	registered = true
 [submodule "crc"]
 	path = crc
