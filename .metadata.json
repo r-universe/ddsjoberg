@@ -1,7 +1,6 @@
 [
   {
     "package": "gtsummary",
-    "oncran": true,
     "releasetag": true
   },
   {
@@ -14,7 +13,6 @@
   },
   {
     "package": "dcurves",
-    "oncran": true,
     "releasetag": true
   },
   {
@@ -23,22 +21,18 @@
   },
   {
     "package": "broom.helpers",
-    "oncran": true,
     "releasetag": true
   },
   {
     "package": "rstudio.prefs",
-    "oncran": true,
     "releasetag": true
   },
   {
     "package": "starter",
-    "oncran": true,
     "releasetag": true
   },
   {
     "package": "tidycmprsk",
-    "oncran": true,
     "releasetag": true
   },
   {
@@ -50,12 +44,10 @@
   },
   {
     "package": "updater",
-    "oncran": true,
     "releasetag": true
   },
   {
     "package": "ggsurvfit",
-    "oncran": true,
     "releasetag": true
   },
   {
@@ -63,7 +55,6 @@
   },
   {
     "package": "visR",
-    "oncran": true,
     "releasetag": true
   }
 ]
