@@ -40,18 +40,12 @@
     "releasetag": true
   },
   {
-    "package": "sjofun"
-  },
-  {
     "package": "updater",
     "releasetag": true
   },
   {
     "package": "ggsurvfit",
     "releasetag": true
-  },
-  {
-    "package": "crc"
   },
   {
     "package": "visR",
