@@ -49,7 +49,7 @@
 	path = starter
 	url = https://github.com/ddsjoberg/starter
 	shallow = true
-	branch = v0.1.13
+	branch = v0.1.14
 	registered = true
 [submodule "tidycmprsk"]
 	path = tidycmprsk
