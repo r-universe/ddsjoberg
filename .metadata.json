@@ -50,9 +50,5 @@
   {
     "package": "visR",
     "releasetag": true
-  },
-  {
-    "package": "affirm",
-    "releasetag": true
   }
 ]

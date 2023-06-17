@@ -95,5 +95,4 @@
 	path = affirm
 	url = https://github.com/pcctc/affirm
 	shallow = true
-	branch = *release
 	registered = true
