@@ -52,7 +52,7 @@
 [submodule "ggsurvfit"]
 	path = ggsurvfit
 	url = https://github.com/ddsjoberg/ggsurvfit
-	branch = v0.3.0
+	branch = *release
 [submodule "crc"]
 	path = crc
 	url = https://github.com/ddsjoberg/crc
