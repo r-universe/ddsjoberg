@@ -1,98 +1,65 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/ddsjoberg/universe
-	shallow = true
 	branch = HEAD
 [submodule "gtsummary"]
 	path = gtsummary
 	url = https://github.com/ddsjoberg/gtsummary
-	shallow = true
 	branch = v1.7.1
-	registered = true
 [submodule "bstfun"]
 	path = bstfun
 	url = https://github.com/ddsjoberg/bstfun
-	shallow = true
 	branch = v0.5.1
-	registered = true
 [submodule "hotfun"]
 	path = hotfun
 	url = https://github.com/ddsjoberg/hotfun
-	shallow = true
 	branch = v0.3.0
-	registered = true
 [submodule "dcurves"]
 	path = dcurves
 	url = https://github.com/ddsjoberg/dcurves
-	shallow = true
 	branch = v0.4.0
-	registered = true
 [submodule "ghe.utils"]
 	path = ghe.utils
 	url = https://github.com/ddsjoberg/ghe.utils
-	shallow = true
 	branch = v0.1.2
-	registered = true
 [submodule "broom.helpers"]
 	path = broom.helpers
 	url = https://github.com/larmarange/broom.helpers
-	shallow = true
 	branch = v1.13.0
-	registered = true
 [submodule "rstudio.prefs"]
 	path = rstudio.prefs
 	url = https://github.com/ddsjoberg/rstudio.prefs
-	shallow = true
 	branch = v0.1.9
-	registered = true
 [submodule "starter"]
 	path = starter
 	url = https://github.com/ddsjoberg/starter
-	shallow = true
 	branch = v0.1.14
-	registered = true
 [submodule "tidycmprsk"]
 	path = tidycmprsk
 	url = https://github.com/MSKCC-Epi-Bio/tidycmprsk
-	shallow = true
 	branch = v0.2.0
-	registered = true
 [submodule "gt.doc.images"]
 	path = gt.doc.images
 	url = https://github.com/ddsjoberg/gt.doc.images
-	shallow = true
 	branch = v0.3.0
-	registered = true
 [submodule "sjofun"]
 	path = sjofun
 	url = https://github.com/ddsjoberg/sjofun
-	shallow = true
-	registered = true
 [submodule "updater"]
 	path = updater
 	url = https://github.com/ddsjoberg/updater
-	shallow = true
 	branch = v0.1.1
-	registered = true
 [submodule "ggsurvfit"]
 	path = ggsurvfit
 	url = https://github.com/ddsjoberg/ggsurvfit
-	shallow = true
 	branch = v0.3.0
-	registered = true
 [submodule "crc"]
 	path = crc
 	url = https://github.com/ddsjoberg/crc
-	shallow = true
-	registered = true
 [submodule "visR"]
 	path = visR
 	url = https://github.com/openpharma/visR
-	shallow = true
 	branch = v0.3.1
-	registered = true
 [submodule "affirm"]
 	path = affirm
 	url = https://github.com/pcctc/affirm
-	shallow = true
-	registered = true
