@@ -5,7 +5,7 @@
 [submodule "gtsummary"]
 	path = gtsummary
 	url = https://github.com/ddsjoberg/gtsummary
-	branch = v1.7.1
+	branch = v1.7.2
 [submodule "bstfun"]
 	path = bstfun
 	url = https://github.com/ddsjoberg/bstfun
