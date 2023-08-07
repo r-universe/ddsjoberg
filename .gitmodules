@@ -2,34 +2,51 @@
 	path = .registry
 	url = https://github.com/ddsjoberg/universe
 	branch = HEAD
-[submodule "gtsummary"]
-	path = gtsummary
-	url = https://github.com/ddsjoberg/gtsummary
-	branch = v1.7.2
-[submodule "bstfun"]
-	path = bstfun
-	url = https://github.com/ddsjoberg/bstfun
-	branch = v0.5.1
-[submodule "hotfun"]
-	path = hotfun
-	url = https://github.com/ddsjoberg/hotfun
-	branch = v0.3.0
-[submodule "dcurves"]
-	path = dcurves
-	url = https://github.com/ddsjoberg/dcurves
-	branch = v0.4.0
-[submodule "ghe.utils"]
-	path = ghe.utils
-	url = https://github.com/ddsjoberg/ghe.utils
-	branch = v0.1.2
+[submodule "affirm"]
+	path = affirm
+	url = https://github.com/pcctc/affirm
 [submodule "broom.helpers"]
 	path = broom.helpers
 	url = https://github.com/larmarange/broom.helpers
 	branch = v1.13.0
+[submodule "bstfun"]
+	path = bstfun
+	url = https://github.com/ddsjoberg/bstfun
+	branch = v0.5.1
+[submodule "crc"]
+	path = crc
+	url = https://github.com/ddsjoberg/crc
+[submodule "dcurves"]
+	path = dcurves
+	url = https://github.com/ddsjoberg/dcurves
+	branch = v0.4.0
+[submodule "ggsurvfit"]
+	path = ggsurvfit
+	url = https://github.com/ddsjoberg/ggsurvfit
+	branch = *release
+[submodule "ghe.utils"]
+	path = ghe.utils
+	url = https://github.com/ddsjoberg/ghe.utils
+	branch = v0.1.2
+[submodule "gt.doc.images"]
+	path = gt.doc.images
+	url = https://github.com/ddsjoberg/gt.doc.images
+	branch = v0.3.0
+[submodule "gtsummary"]
+	path = gtsummary
+	url = https://github.com/ddsjoberg/gtsummary
+	branch = v1.7.2
+[submodule "hotfun"]
+	path = hotfun
+	url = https://github.com/ddsjoberg/hotfun
+	branch = v0.3.0
 [submodule "rstudio.prefs"]
 	path = rstudio.prefs
 	url = https://github.com/ddsjoberg/rstudio.prefs
 	branch = v0.1.9
+[submodule "sjofun"]
+	path = sjofun
+	url = https://github.com/ddsjoberg/sjofun
 [submodule "starter"]
 	path = starter
 	url = https://github.com/ddsjoberg/starter
@@ -38,28 +55,11 @@
 	path = tidycmprsk
 	url = https://github.com/MSKCC-Epi-Bio/tidycmprsk
 	branch = v0.2.0
-[submodule "gt.doc.images"]
-	path = gt.doc.images
-	url = https://github.com/ddsjoberg/gt.doc.images
-	branch = v0.3.0
-[submodule "sjofun"]
-	path = sjofun
-	url = https://github.com/ddsjoberg/sjofun
 [submodule "updater"]
 	path = updater
 	url = https://github.com/ddsjoberg/updater
 	branch = v0.1.1
-[submodule "ggsurvfit"]
-	path = ggsurvfit
-	url = https://github.com/ddsjoberg/ggsurvfit
-	branch = *release
-[submodule "crc"]
-	path = crc
-	url = https://github.com/ddsjoberg/crc
 [submodule "visR"]
 	path = visR
 	url = https://github.com/openpharma/visR
 	branch = v0.3.1
-[submodule "affirm"]
-	path = affirm
-	url = https://github.com/pcctc/affirm
