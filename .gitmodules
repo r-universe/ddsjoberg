@@ -54,7 +54,7 @@
 [submodule "tidycmprsk"]
 	path = tidycmprsk
 	url = https://github.com/MSKCC-Epi-Bio/tidycmprsk
-	branch = v0.2.0
+	branch = v1.0.0
 [submodule "updater"]
 	path = updater
 	url = https://github.com/ddsjoberg/updater
