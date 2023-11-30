@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/ddsjoberg/universe
 	branch = HEAD
+[submodule "admiraldev"]
+	path = admiraldev
+	url = https://github.com/pharmaverse/admiraldev
 [submodule "affirm"]
 	path = affirm
 	url = https://github.com/pcctc/affirm
@@ -40,6 +43,9 @@
 	path = hotfun
 	url = https://github.com/ddsjoberg/hotfun
 	branch = v0.3.0
+[submodule "pharmaversesdtm"]
+	path = pharmaversesdtm
+	url = https://github.com/pharmaverse/pharmaversesdtm
 [submodule "rstudio.prefs"]
 	path = rstudio.prefs
 	url = https://github.com/ddsjoberg/rstudio.prefs
