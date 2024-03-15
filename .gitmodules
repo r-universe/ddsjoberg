@@ -68,4 +68,4 @@
 [submodule "visR"]
 	path = visR
 	url = https://github.com/openpharma/visR
-	branch = v0.4
+	branch = v0.4.1
