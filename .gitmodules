@@ -22,7 +22,7 @@
 [submodule "dcurves"]
 	path = dcurves
 	url = https://github.com/ddsjoberg/dcurves
-	branch = v0.4.0
+	branch = v0.5.0
 [submodule "ggsurvfit"]
 	path = ggsurvfit
 	url = https://github.com/ddsjoberg/ggsurvfit
