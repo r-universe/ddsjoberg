@@ -38,7 +38,7 @@
 [submodule "gtsummary"]
 	path = gtsummary
 	url = https://github.com/ddsjoberg/gtsummary
-	branch = v2.0.1
+	branch = v2.0.2
 [submodule "hotfun"]
 	path = hotfun
 	url = https://github.com/ddsjoberg/hotfun
