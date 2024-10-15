@@ -56,7 +56,7 @@
 [submodule "starter"]
 	path = starter
 	url = https://github.com/ddsjoberg/starter
-	branch = v0.1.15
+	branch = v0.1.16
 [submodule "tidycmprsk"]
 	path = tidycmprsk
 	url = https://github.com/MSKCC-Epi-Bio/tidycmprsk
