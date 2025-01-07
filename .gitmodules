@@ -11,7 +11,7 @@
 [submodule "broom.helpers"]
 	path = broom.helpers
 	url = https://github.com/larmarange/broom.helpers
-	branch = v1.17.0
+	branch = v1.18.0
 [submodule "bstfun"]
 	path = bstfun
 	url = https://github.com/ddsjoberg/bstfun
