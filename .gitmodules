@@ -38,6 +38,9 @@
 [submodule "starter"]
 	path = starter
 	url = https://github.com/ddsjoberg/starter
+[submodule "tfrmt"]
+	path = tfrmt
+	url = https://github.com/GSK-Biostatistics/tfrmt
 [submodule "tidycmprsk"]
 	path = tidycmprsk
 	url = https://github.com/MSKCC-Epi-Bio/tidycmprsk
