@@ -8,6 +8,10 @@
 [submodule "affirm"]
 	path = affirm
 	url = https://github.com/pcctc/affirm
+[submodule "broom"]
+	path = broom
+	url = https://github.com/tidymodels/broom
+	registered = false
 [submodule "broom.helpers"]
 	path = broom.helpers
 	url = https://github.com/larmarange/broom.helpers

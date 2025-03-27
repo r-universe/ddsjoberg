@@ -1,5 +1,11 @@
 [
   {
+    "package": "broom",
+    "url": "https://github.com/tidymodels/broom",
+    "via": ["cardx"],
+    "from": "cardx"
+  },
+  {
     "package": "cards",
     "url": "https://github.com/insightsengineering/cards",
     "via": ["cardx"],
