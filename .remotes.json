@@ -2,12 +2,6 @@
   {
     "package": "cards",
     "url": "https://github.com/insightsengineering/cards",
-    "via": ["cardx"],
-    "from": "cardx"
-  },
-  {
-    "package": "cards",
-    "url": "https://github.com/insightsengineering/cards",
     "via": ["gtsummary"],
     "from": "gtsummary"
   },
