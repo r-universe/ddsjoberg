@@ -25,7 +25,7 @@
 	url = https://github.com/ddsjoberg/dcurves
 [submodule "ggsurvfit"]
 	path = ggsurvfit
-	url = https://github.com/ddsjoberg/ggsurvfit
+	url = https://github.com/pharmaverse/ggsurvfit
 [submodule "gtsummary"]
 	path = gtsummary
 	url = https://github.com/ddsjoberg/gtsummary
